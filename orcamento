@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orientações - Planejamento e Orçamento Empresarial 2026</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 40px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        header {
+            border-bottom: 4px solid #2c3e50;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        
+        h1 {
+            color: #2c3e50;
+            font-size: 2.2em;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.1em;
+            font-weight: 300;
+        }
+        
+        h2 {
+            color: #34495e;
+            font-size: 1.8em;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+        }
+        
+        h3 {
+            color: #2c3e50;
+            font-size: 1.3em;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+        
+        h4 {
+            color: #34495e;
+            font-size: 1.1em;
+            margin-top: 15px;
+            margin-bottom: 10px;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+        
+        ul, ol {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+        
+        li {
+            margin-bottom: 10px;
+        }
+        
+        .highlight {
+            background-color: #fff3cd;
+            padding: 20px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .info-box {
+            background-color: #e3f2fd;
+            padding: 20px;
+            border-left: 4px solid #2196f3;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .success-box {
+            background-color: #e8f5e9;
+            padding: 20px;
+            border-left: 4px solid #4caf50;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        
+        table th {
+            background-color: #34495e;
+            color: white;
+            padding: 12px;
+            text-align: left;
+        }
+        
+        table td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        table tr:hover {
+            background-color: #f5f5f5;
+        }
+        
+        .checklist {
+            list-style: none;
+        }
+        
+        .checklist li {
+            padding: 10px;
+            margin-bottom: 8px;
+            background-color: #f9f9f9;
+            border-left: 4px solid #3498db;
+            padding-left: 20px;
+        }
+        
+        .checklist li:before {
+            content: "☐ ";
+            font-weight: bold;
+            color: #3498db;
+            margin-right: 10px;
+        }
+        
+        .citation {
+            background-color: #f0f0f0;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 4px;
+            font-style: italic;
+            border-left: 4px solid #95a5a6;
+        }
+        
+        .references {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 4px;
+            margin-top: 30px;
+        }
+        
+        .references h3 {
+            margin-top: 0;
+        }
+        
+        .reference-item {
+            margin-bottom: 15px;
+            padding-left: 30px;
+            text-indent: -30px;
+            text-align: justify;
+        }
+        
+        .timeline {
+            display: flex;
+            justify-content: space-between;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+        
+        .timeline-item {
+            flex: 1;
+            min-width: 200px;
+            text-align: center;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+            margin: 10px;
+            border: 2px solid #3498db;
+        }
+        
+        .timeline-date {
+            font-weight: bold;
+            color: #2c3e50;
+            font-size: 1.1em;
+        }
+        
+        .timeline-title {
+            color: #7f8c8d;
+            font-size: 0.95em;
+            margin-top: 10px;
+        }
+        
+        footer {
+            margin-top: 50px;
+            padding-top: 20px;
+            border-top: 2px solid #ecf0f1;
+            color: #7f8c8d;
+            font-size: 0.9em;
+            text-align: center;
+        }
+        
+        .warning {
+            color: #c0392b;
+            font-weight: bold;
+        }
+        
+        @media print {
+            body {
+                background-color: white;
+            }
+            .container {
+                box-shadow: none;
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Orientações para Trabalho Acadêmico</h1>
+            <p class="subtitle">Planejamento Estratégico e Orçamento Empresarial 2026</p>
+        </header>
+
+        <section>
+            <h2>📋 Visão Geral do Projeto</h2>
+            <p>Este projeto integra conhecimentos de análise estratégica empresarial e gestão financeira através da elaboração de um orçamento realista para uma empresa real. Cada equipe de até 5 alunos selecionará uma empresa listada na B3 (Bolsa de Valores Brasileira), pesquisará seus dados financeiros e operacionais, e elaborará um orçamento para 2026 utilizando diferentes metodologias.</p>
+            <p>O trabalho combina pesquisa com aplicação prática, desenvolvendo competências em análise crítica de dados, síntese de informações e tomada de decisão baseada em evidências. Todas as etapas devem seguir padrões acadêmicos rigorosos, incluindo citações e fundamentação teórica adequadas.</p>
+        </section>
+
+        <section>
+            <h2>📅 Cronograma do Projeto</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">18/05</div>
+                    <div class="timeline-title">Apresentação e Escolha da Empresa</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">01/06</div>
+                    <div class="timeline-title">Checkpoint 1 - Dados Coletados</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">08/06</div>
+                    <div class="timeline-title">Checkpoint 2 - Orçamento Elaborado</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-date">15/06</div>
+                    <div class="timeline-title">Entrega Final - Relatório + Ferramentas</div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>🎯 Objetivo do Trabalho</h2>
+            <p>Desenvolver análise estratégica de uma empresa real, coletando dados de suas demonstrações financeiras públicas, pesquisando seu contexto de mercado e elaborando um orçamento para o exercício de 2026. O trabalho deve demonstrar compreensão de conceitos de planejamento empresarial e capacidade de aplicar ferramentas de gestão financeira em contextos reais.</p>
+        </section>
+
+        <section>
+            <h2>📊 Estrutura do Trabalho</h2>
+            
+            <h3>1️⃣ Fase 1: Seleção e Pesquisa de Dados</h3>
+            <h4>Encontrando a Empresa (CNPJ Válido)</h4>
+            <p>Cada equipe deve escolher uma empresa de capital aberto listada na B3. A empresa selecionada <span class="warning">deve possuir CNPJ válido e consultável na Receita Federal</span>. Recomenda-se selecionar empresas com demonstrações financeiras recentes disponíveis publicamente. Utilize o site da B3 (www.b3.com.br) ou da CVM (www.gov.br/cvm) para acessar dados oficiais das empresas. É importante garantir que a organização escolhida tenha informações acessíveis para análise adequada e que seja possível obter dados sobre sua estrutura operacional.</p>
+
+            <h4>Dados a Coletar</h4>
+            <ul>
+                <li><strong>Informações Básicas:</strong> Razão social, CNPJ, setor, data de fundação, principais atividades</li>
+                <li><strong>Dados Financeiros Históricos:</strong> Receita bruta, custos, despesas operacionais (últimos 2 anos)</li>
+                <li><strong>Estrutura de Pessoal:</strong> Número de funcionários, folha de pagamento aproximada</li>
+                <li><strong>Dados Operacionais:</strong> Capacidade produtiva, volume de vendas, principais clientes ou mercados</li>
+                <li><strong>Contexto Externo:</strong> Tendências do setor, desafios e oportunidades de mercado</li>
+            </ul>
+
+            <h3>2️⃣ Fase 2: Análise Estratégica</h3>
+            <h4>Documento Escrito - Análise da Empresa</h4>
+            <p>Elabore análise contextualizada da empresa estudada, abordando seu posicionamento estratégico no mercado. Descreva as principais características operacionais, forças competitivas e fatores externos relevantes. Cite fontes de pesquisa utilizadas, diferenciando informações obtidas de documentos oficiais da empresa daquelas obtidas de análises externas. Toda informação deve ser respaldada por citação adequada em padrão ABNT, evitando reprodução literal de textos. Use paráfrases e sínteses que demonstrem compreensão crítica do conteúdo pesquisado.</p>
+            <p><span class="warning">Limite de texto: mínimo 5 linhas e máximo 15 linhas por seção escrita</span></p>
+
+            <h3>3️⃣ Fase 3: Elaboração do Orçamento</h3>
+            <p>Utilize a ferramenta de orçamento para preencher dados previstos para 2026. A ferramenta oferece quatro estratégias diferentes de orçamentação:</p>
+            <ul>
+                <li><strong>Base Zero:</strong> Partindo do zero, projeta despesas necessárias sem base histórica</li>
+                <li><strong>Flexível:</strong> Ajusta histórico com percentuais de crescimento definidos</li>
+                <li><strong>Contínuo:</strong> Mantém estrutura histórica com incrementos lineares</li>
+                <li><strong>Cenários:</strong> Permite definir múltiplas projeções (otimista, realista, pessimista)</li>
+            </ul>
+
+            <h3>4️⃣ Fase 4: Relatório Final</h3>
+            <h4>Conteúdo Obrigatório</h4>
+            <ul>
+                <li>Capa com identificação completa (equipe, escola, data, empresa)</li>
+                <li>Sumário com lista de seções</li>
+                <li>Apresentação da empresa selecionada (5-15 linhas)</li>
+                <li>Análise estratégica e contexto de mercado (5-15 linhas)</li>
+                <li>Premissas assumidas para o orçamento 2026 (5-15 linhas)</li>
+                <li>Planilhas de orçamento preenchidas (exportadas da ferramenta)</li>
+                <li>Análise crítica dos resultados obtidos (5-15 linhas)</li>
+                <li>Conclusões e projeções para a empresa (5-15 linhas)</li>
+                <li>Referências em padrão ABNT</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>📚 Padrão Acadêmico - Citações e Referências</h2>
+            
+            <h3>Uso de Citações (Padrão ABNT)</h3>
+            <p><strong>NÃO utilize cópia literal.</strong> Sempre parafreie e cite a fonte. Existem dois tipos de citação aceitos:</p>
+
+            <h4>1. Citação Indireta (Paráfrase)</h4>
+            <div class="citation">
+                <p><strong>Exemplo:</strong> Segundo Silva (2023), as empresas que adotam planejamento estratégico integrado apresentam maior adaptabilidade aos cenários econômicos voláteis.</p>
+                <p><strong>No texto:</strong> "A integração entre planejamento estratégico e gestão financeira melhora a resposta das organizações a mudanças de mercado (SILVA, 2023)."</p>
+            </div>
+
+            <h4>2. Citação Direta (quando necessário)</h4>
+            <div class="citation">
+                <p><strong>Exemplo com até 3 linhas:</strong> "O orçamento é instrumento de controle que permite avaliar o desempenho organizacional comparando receitas e despesas previstas com as realizadas" (SANTOS, 2022, p. 45).</p>
+            </div>
+
+            <h3>Fontes Recomendadas</h3>
+            <ul>
+                <li><strong>Site da empresa:</strong> Relatórios anuais, demonstrações financeiras, informações sobre negócio</li>
+                <li><strong>CVM (Comissão de Valores Mobiliários):</strong> www.gov.br/cvm – dados financeiros regulados</li>
+                <li><strong>B3:</strong> www.b3.com.br – cotações e informações de empresas listadas</li>
+                <li><strong>Bases de dados acadêmicas:</strong> Google Scholar, Scielo, periódicos especializados</li>
+                <li><strong>Notícias e análises setoriais:</strong> Jornais de economia, relatórios de analistas</li>
+            </ul>
+
+            <h3>Formatos de Referência (ABNT)</h3>
+            <div class="highlight">
+                <h4>Livro:</h4>
+                <p style="margin-bottom: 0;">SOBRENOME, Primeiro Nome. <strong>Título do livro.</strong> Número de edição. Cidade: Editora, ano.</p>
+                <p style="margin-top: 10px; margin-bottom: 15px;"><strong>Exemplo:</strong> GITMAN, Lawrence J. <strong>Princípios de administração financeira.</strong> 12. ed. São Paulo: Pearson, 2010.</p>
+                
+                <h4>Artigo de Periódico:</h4>
+                <p style="margin-bottom: 0;">SOBRENOME, Primeiro Nome. Título do artigo. <strong>Título do Periódico,</strong> local, volume, número, páginas, mês abreviado e ano.</p>
+                <p style="margin-top: 10px; margin-bottom: 15px;"><strong>Exemplo:</strong> SILVA, Carlos; SANTOS, Maria. Orçamento empresarial em contextos voláteis. <strong>Revista de Gestão,</strong> São Paulo, v. 15, n. 3, p. 201-220, set. 2023.</p>
+                
+                <h4>Site/Página eletrônica:</h4>
+                <p style="margin-bottom: 0;">NOME DO SITE. Título da página. Disponível em: &lt;url&gt;. Acesso em: dia mês ano.</p>
+                <p style="margin-top: 10px; margin-bottom: 0;"><strong>Exemplo:</strong> B3 – BRASIL BOLSA BALCÃO. Informações de empresas listadas. Disponível em: &lt;www.b3.com.br&gt;. Acesso em: 18 maio 2026.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>⚙️ Como Usar as Ferramentas</h2>
+            
+            <h3>Formulário de Coleta de Dados</h3>
+            <p>Preencha o formulário com dados da empresa escolhida. O sistema salva automaticamente suas respostas no navegador. Ao final, você pode exportar os dados para PDF, que será incluído no relatório final. Todos os campos com asterisco (*) são obrigatórios.</p>
+
+            <h3>Ferramenta de Orçamento</h3>
+            <p>Escolha a estratégia de orçamentação mais apropriada para sua empresa. Insira premissas (percentuais de crescimento, valores esperados) e a ferramenta calculará automaticamente as projeções para 2026. Você pode testar diferentes cenários antes de definir a versão final. Exporte o orçamento para PDF para incluir no relatório.</p>
+        </section>
+
+        <section>
+            <h2>💡 Dicas para o Sucesso</h2>
+            <ul>
+                <li><strong>Comece cedo:</strong> Pesquisa de dados leva tempo. Não deixe para a última semana.</li>
+                <li><strong>Diversifique as fontes:</strong> Use relatórios oficiais, análises de mercado e dados históricos.</li>
+                <li><strong>Questione suas premissas:</strong> Justifique por que o orçamento assume certos percentuais de crescimento.</li>
+                <li><strong>Revisar e citar sempre:</strong> Toda frase que não é sua própria síntese deve ter citação.</li>
+                <li><strong>Coerência entre fases:</strong> Os dados do formulário devem estar alinhados com as premissas do orçamento.</li>
+                <li><strong>Documentação clara:</strong> Deixe claro de onde vieram os números (histórico, estimativa, mercado).</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>👥 Papéis Recomendados para a Equipe</h2>
+            <div class="info-box">
+                <h4>Pesquisador Principal</h4>
+                <p>Responsável por coletar dados da empresa em fontes oficiais. Busca relatórios anuais, demonstrações financeiras e informações de mercado.</p>
+                
+                <h4>Analista Financeiro</h4>
+                <p>Interpreta os dados coletados e elabora as premissas do orçamento. Faz cálculos de crescimento e tendências.</p>
+                
+                <h4>Especialista em Ferramentas</h4>
+                <p>Opera o formulário e a planilha de orçamento, certificando-se que todos os dados estão corretos e exportáveis.</p>
+                
+                <h4>Revisor Acadêmico</h4>
+                <p>Garante que todas as citações estão em padrão ABNT, textos não possuem cópias literais e relatório segue estrutura recomendada.</p>
+                
+                <h4>Coordenador</h4>
+                <p>Gerencia prazos, organiza reuniões de equipe e certifica-se que tudo avança conforme cronograma.</p>
+            </div>
+        </section>
+
+        <section>
+            <h2>✅ Checklist de Entrega</h2>
+            <ul class="checklist">
+                <li>Empresa selecionada com CNPJ válido e consultável</li>
+                <li>Formulário de coleta preenchido completamente</li>
+                <li>Pesquisa realizada em ao menos 3 fontes diferentes</li>
+                <li>Análise escrita sem cópias literais (5-15 linhas por seção)</li>
+                <li>Todas as informações citadas em padrão ABNT</li>
+                <li>Orçamento 2026 elaborado em uma das estratégias oferecidas</li>
+                <li>Premissas do orçamento justificadas e documentadas</li>
+                <li>Relatório final em formato PDF ou Word</li>
+                <li>Referências bibliográficas completas em padrão ABNT</li>
+                <li>Arquivo entregue no repositório conforme indicado</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>❓ Perguntas Frequentes</h2>
+            
+            <h4>P: Posso escolher qualquer empresa?</h4>
+            <p><strong>R:</strong> A empresa deve estar listada na B3 (Bolsa de Valores Brasileira) e possuir CNPJ válido. Isso garante acesso a dados públicos confiáveis e comparáveis. Evite microempresas sem informações públicas disponíveis.</p>
+            
+            <h4>P: Quanto de pesquisa eu preciso fazer?</h4>
+            <p><strong>R:</strong> Mínimo 3 fontes diferentes. Idealmente, consulte: (1) relatório anual ou site da empresa; (2) dados financeiros oficiais (CVM/B3); (3) análise externa de mercado ou setor. Quanto mais diversas as fontes, melhor a análise.</p>
+            
+            <h4>P: E se não encontrar um dado específico?</h4>
+            <p><strong>R:</strong> Documente o que não foi encontrado e faça uma estimativa baseada em dados similares de empresas do mesmo setor. Deixe claro na análise: "Não foram encontrados dados de X, portanto estimamos baseado em Y (fonte)."</p>
+            
+            <h4>P: Posso copiar textos dos relatórios da empresa se citá-los?</h4>
+            <p><strong>R:</strong> Não recomendado. Faça paráfrase com citação. Cópias literais longas não demonstram compreensão. Use a estratégia: Leia → Compreenda → Escreva com suas palavras → Cite a fonte.</p>
+            
+            <h4>P: Como formatam o relatório final?</h4>
+            <p><strong>R:</strong> Qualquer formato é aceito (Word, PDF, Google Docs) desde que contenha todas as seções obrigatórias, seja legível e siga padrão ABNT para referências. Se possível, use fonte clara (Arial, Calibri ou Times New Roman) tamanho 12.</p>
+            
+            <h4>P: Quantas pessoas pode ter na equipe?</h4>
+            <p><strong>R:</strong> Até 5 alunos por equipe. Grupos menores também são permitidos.</p>
+        </section>
+
+        <section class="references">
+            <h3>📖 Referências Bibliográficas para Fundamentação Teórica</h3>
+            
+            <div class="reference-item">
+                ATKINSON, Anthony A.; KAPLAN, Robert S.; MATSUMURA, Ella Mae; YOUNG, S. Mark. <strong>Gestão de custos: quando as técnicas tradicionais não são suficientes.</strong> 4. ed. São Paulo: Atlas, 2015.
+            </div>
+            
+            <div class="reference-item">
+                GITMAN, Lawrence J. <strong>Princípios de administração financeira.</strong> 14. ed. São Paulo: Pearson, 2017.
+            </div>
+            
+            <div class="reference-item">
+                HORNGREN, Charles T.; DATAR, Srikant M.; RAJAN, Madhav V. <strong>Contabilidade de custos: uma perspectiva gerencial.</strong> 14. ed. São Paulo: Pearson, 2018.
+            </div>
+            
+            <div class="reference-item">
+                LUNKES, Rogério João. <strong>Contabilidade de custos.</strong> 4. ed. São Paulo: Atlas, 2015.
+            </div>
+            
+            <div class="reference-item">
+                PORTER, Michael E. <strong>Estratégia competitiva: técnicas para análise de indústrias e da concorrência.</strong> Rio de Janeiro: Elsevier, 2004.
+            </div>
+            
+            <div class="reference-item">
+                SANVICENTE, Antonio Zoratto; SANTOS, Celso da Costa. <strong>Orçamento na administração de empresas.</strong> 2. ed. São Paulo: Atlas, 1995.
+            </div>
+
+            <div class="success-box" style="margin-top: 30px;">
+                <p><strong>Fontes de Dados Oficiais Recomendadas:</strong></p>
+                <ul style="margin-left: 20px;">
+                    <li><strong>B3 – Brasil Bolsa Balcão:</strong> www.b3.com.br</li>
+                    <li><strong>CVM – Comissão de Valores Mobiliários:</strong> www.gov.br/cvm</li>
+                    <li><strong>Receita Federal:</strong> www.gov.br/receitafederal</li>
+                    <li><strong>Google Scholar:</strong> scholar.google.com.br</li>
+                    <li><strong>Scielo:</strong> www.scielo.br</li>
+                </ul>
+            </div>
+        </section>
+
+        <footer>
+            <p>Documento preparado para orientação acadêmica — Planejamento Estratégico e Orçamento Empresarial 2026</p>
+            <p>Atualizado em 18 de maio de 2026</p>
+        </footer>
+    </div>
+</body>
+</html>
